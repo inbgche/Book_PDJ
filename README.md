@@ -1,2 +1,7 @@
 # Book_PDJ
-Test and example repository for data science book(Data manipulating with python)
+Learn basic data science.
+Test and Example repository for data science book (Data manipulating with python)
+
+
+
+
